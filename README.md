@@ -1,6 +1,6 @@
 Please read the following.
-
-Descripstion: This repository is design to lodge a bunch of random codes I'm working on...
-Author: Lola Bittencourt
-License: CC BY-NC 4.0
-License URI: https://creativecommons.org/licenses/by-nc/4.0/
+<p>Quick note on this Git repository:</p>
+<br />These codes are not licensed. They are Public Domain. You're free to use them If you like.
+<br />I created this repository so I could learn more and enprove my coding hability. I don't know much and I'm also still learning, so that could be some mistakes in these files.
+<br />I'll comment on these files so you'll understend my logic.
+<br />Thank you for reding ;)
